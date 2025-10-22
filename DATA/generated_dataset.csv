@@ -1,0 +1,201 @@
+Original,Transformed,Label
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+The cat chased the mouse.,The mouse was chased by the cat.,Active to Passive
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+I am not happy today.,I am happy today.,Negative to Positive
+The meal was cooked by the chef.,The chef cooked the meal.,Passive to Active
+He is honest.,He is not honest.,Positive to Negative
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+I am happy today.,I am not happy today.,Positive to Negative
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+He is honest.,He is not honest.,Positive to Negative
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+He is honest.,He is not honest.,Positive to Negative
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+They are not excited.,They are excited.,Negative to Positive
+I am happy today.,I am not happy today.,Positive to Negative
+He is honest.,He is not honest.,Positive to Negative
+She wrote a letter.,A letter was written by her.,Active to Passive
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+He is honest.,He is not honest.,Positive to Negative
+I am happy today.,I am not happy today.,Positive to Negative
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+A letter was written by her.,She wrote a letter.,Passive to Active
+He is honest.,He is not honest.,Positive to Negative
+A letter was written by her.,She wrote a letter.,Passive to Active
+A letter was written by her.,She wrote a letter.,Passive to Active
+A letter was written by her.,She wrote a letter.,Passive to Active
+I am happy today.,I am not happy today.,Positive to Negative
+They are not excited.,They are excited.,Negative to Positive
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+He is not honest.,He is honest.,Negative to Positive
+They are not excited.,They are excited.,Negative to Positive
+She wrote a letter.,A letter was written by her.,Active to Passive
+She wrote a letter.,A letter was written by her.,Active to Passive
+He is honest.,He is not honest.,Positive to Negative
+They are excited.,They are not excited.,Positive to Negative
+They are excited.,They are not excited.,Positive to Negative
+I am not happy today.,I am happy today.,Negative to Positive
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+The meal was cooked by the chef.,The chef cooked the meal.,Passive to Active
+The cat chased the mouse.,The mouse was chased by the cat.,Active to Passive
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+He is honest.,He is not honest.,Positive to Negative
+The meal was cooked by the chef.,The chef cooked the meal.,Passive to Active
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+The meal was cooked by the chef.,The chef cooked the meal.,Passive to Active
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+The cat chased the mouse.,The mouse was chased by the cat.,Active to Passive
+I am happy today.,I am not happy today.,Positive to Negative
+She wrote a letter.,A letter was written by her.,Active to Passive
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
+A letter was written by her.,She wrote a letter.,Passive to Active
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+I am happy today.,I am not happy today.,Positive to Negative
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+I am happy today.,I am not happy today.,Positive to Negative
+He is not honest.,He is honest.,Negative to Positive
+A letter was written by her.,She wrote a letter.,Passive to Active
+She wrote a letter.,A letter was written by her.,Active to Passive
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+She wrote a letter.,A letter was written by her.,Active to Passive
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
+He is honest.,He is not honest.,Positive to Negative
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+I am happy today.,I am not happy today.,Positive to Negative
+A letter was written by her.,She wrote a letter.,Passive to Active
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+I am not happy today.,I am happy today.,Negative to Positive
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+I am not happy today.,I am happy today.,Negative to Positive
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+He is honest.,He is not honest.,Positive to Negative
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+The cat chased the mouse.,The mouse was chased by the cat.,Active to Passive
+I am happy today.,I am not happy today.,Positive to Negative
+They are excited.,They are not excited.,Positive to Negative
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+A letter was written by her.,She wrote a letter.,Passive to Active
+He is not honest.,He is honest.,Negative to Positive
+A letter was written by her.,She wrote a letter.,Passive to Active
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+She wrote a letter.,A letter was written by her.,Active to Passive
+I am happy today.,I am not happy today.,Positive to Negative
+I am not happy today.,I am happy today.,Negative to Positive
+The meal was cooked by the chef.,The chef cooked the meal.,Passive to Active
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+He is honest.,He is not honest.,Positive to Negative
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+I am not happy today.,I am happy today.,Negative to Positive
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+He is not honest.,He is honest.,Negative to Positive
+She wrote a letter.,A letter was written by her.,Active to Passive
+They are excited.,They are not excited.,Positive to Negative
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+I am not happy today.,I am happy today.,Negative to Positive
+I am happy today.,I am not happy today.,Positive to Negative
+She wrote a letter.,A letter was written by her.,Active to Passive
+She wrote a letter.,A letter was written by her.,Active to Passive
+I am happy today.,I am not happy today.,Positive to Negative
+I am not happy today.,I am happy today.,Negative to Positive
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
+They are excited.,They are not excited.,Positive to Negative
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
+The meal was cooked by the chef.,The chef cooked the meal.,Passive to Active
+A letter was written by her.,She wrote a letter.,Passive to Active
+The meal was cooked by the chef.,The chef cooked the meal.,Passive to Active
+A letter was written by her.,She wrote a letter.,Passive to Active
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
+He is not honest.,He is honest.,Negative to Positive
+He is not honest.,He is honest.,Negative to Positive
+She wrote a letter.,A letter was written by her.,Active to Passive
+He is honest.,He is not honest.,Positive to Negative
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+He is honest.,He is not honest.,Positive to Negative
+They are not excited.,They are excited.,Negative to Positive
+A letter was written by her.,She wrote a letter.,Passive to Active
+They are excited.,They are not excited.,Positive to Negative
+He is honest.,He is not honest.,Positive to Negative
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+She wrote a letter.,A letter was written by her.,Active to Passive
+A letter was written by her.,She wrote a letter.,Passive to Active
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+He is honest.,He is not honest.,Positive to Negative
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
+They are not excited.,They are excited.,Negative to Positive
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
+The cat chased the mouse.,The mouse was chased by the cat.,Active to Passive
+I am happy today.,I am not happy today.,Positive to Negative
+They are excited.,They are not excited.,Positive to Negative
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+He is not honest.,He is honest.,Negative to Positive
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+John said that he would go.,"John said, 'I will go.'",Indirect to Direct Speech
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+"He said, 'I am tired.'",He said that he was tired.,Direct to Indirect Speech
+A letter was written by her.,She wrote a letter.,Passive to Active
+I am happy today.,I am not happy today.,Positive to Negative
+He is honest.,He is not honest.,Positive to Negative
+I am happy today.,I am not happy today.,Positive to Negative
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+I am not happy today.,I am happy today.,Negative to Positive
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+He is not honest.,He is honest.,Negative to Positive
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+They are not excited.,They are excited.,Negative to Positive
+He is not honest.,He is honest.,Negative to Positive
+She wrote a letter.,A letter was written by her.,Active to Passive
+They are not excited.,They are excited.,Negative to Positive
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+They are excited.,They are not excited.,Positive to Negative
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+The cat chased the mouse.,The mouse was chased by the cat.,Active to Passive
+"She said, 'I like apples.'",She said that she liked apples.,Direct to Indirect Speech
+I am not happy today.,I am happy today.,Negative to Positive
+The meal was cooked by the chef.,The chef cooked the meal.,Passive to Active
+"John said, 'I will go.'",John said that he would go.,Direct to Indirect Speech
+A letter was written by her.,She wrote a letter.,Passive to Active
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+The mouse was chased by the cat.,The cat chased the mouse.,Passive to Active
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+The cat chased the mouse.,The mouse was chased by the cat.,Active to Passive
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+I am not happy today.,I am happy today.,Negative to Positive
+The chef cooked the meal.,The meal was cooked by the chef.,Active to Passive
+She said that she liked apples.,"She said, 'I like apples.'",Indirect to Direct Speech
+He said that he was tired.,"He said, 'I am tired.'",Indirect to Direct Speech
