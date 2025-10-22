@@ -1,0 +1,15 @@
+transformers
+datasets
+evaluate
+scikit-learn
+pandas
+numpy
+torch
+tqdm
+shap
+lime
+streamlit
+matplotlib
+seaborn
+sentencepiece
+tokenizers
